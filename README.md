@@ -1,6 +1,6 @@
 <!-- Banner (opcional: añade tu propia animación o GIF en assets/banner.gif) -->
 <p align="center">
-  <img src="https://github.com/miguel43155957/miguel43155957/blob/main/assets/banner.gif" alt="banner" />
+  <img src="https://github.com/migueflorez10/migueflorez10/blob/main/assets/banner.gif" alt="banner" />
 </p>
 
 <h1 align="center">Hi, I'm Miguel Ángel Martínez Florez 👋</h1>
@@ -10,8 +10,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/miguel43155957">
-    <img src="https://img.shields.io/github/followers/miguel43155957?label=Follow&style=social" alt="Follow on GitHub"/>
+  <a href="https://github.com/migueflorez10">
+    <img src="https://img.shields.io/github/followers/migueflorez10?label=Follow&style=social" alt="Follow on GitHub"/>
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/miguelmartinez-developer/">
@@ -28,9 +28,9 @@
 ## 🧰 Tech & Tools
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=miguel43155957&show_icons=true&theme=radical" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=migueflorez10&show_icons=true&theme=radical" alt="GitHub stats"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguel43155957&layout=compact&theme=radical" alt="Top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=migueflorez10&layout=compact&theme=radical" alt="Top languages"/>
 </p>
 
 ---
@@ -38,7 +38,7 @@
 ## 📈 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miguel43155957&theme=radical" alt="GitHub streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=migueflorez10&theme=radical" alt="GitHub streak"/>
 </p>
 
 ---
