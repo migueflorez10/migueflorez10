@@ -33,12 +33,34 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=migueflorez10&layout=compact&theme=radical" alt="Top languages"/>
 </p>
 
+### 🛠️ My Toolbox
+
+<p align="center">
+  <img src="https://github.com/migueflorez10/migueflorez10/blob/main/assets/javascript.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://github.com/migueflorez10/migueflorez10/blob/main/assets/html5.svg"       alt="HTML5"       width="40" height="40"/>
+  <img src="https://github.com/migueflorez10/migueflorez10/blob/main/assets/css3.svg"        alt="CSS3"        width="40" height="40"/>
+  <img src="https://github.com/migueflorez10/migueflorez10/blob/main/assets/react.svg"       alt="React"       width="40" height="40"/>
+  <img src="https://github.com/migueflorez10/migueflorez10/blob/main/assets/python.svg"      alt="Python"      width="40" height="40"/>
+  <img src="https://github.com/migueflorez10/migueflorez10/blob/main/assets/aws.svg"         alt="AWS"         width="40" height="40"/>
+  <!-- Añade aquí más logos según necesites -->
+</p>
+
 ---
 
 ## 📈 GitHub Streak
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=migueflorez10&theme=radical" alt="GitHub streak"/>
+</p>
+
+---
+
+## 📄 Resume
+
+<p align="center">
+  <a href="https://github.com/migueflorez10/migueflorez10/blob/main/Miguel%20Angel%20Martinez%20Florez%20CV.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/-Download%20CV-blue?style=flat&logo=document&logoColor=white" alt="Download CV"/>
+  </a>
 </p>
 
 ---
