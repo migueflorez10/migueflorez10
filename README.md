@@ -14,8 +14,8 @@
     <img src="https://img.shields.io/github/followers/migueflorez10?label=Follow&style=social" alt="Follow on GitHub"/>
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/miguelmartinez-developer/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/miguelmartinez-developer/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
   <a href="mailto:miguel43155957@gmail.com">
@@ -50,8 +50,8 @@
     <img src="https://img.shields.io/badge/Email-miguel43155957@gmail.com-red?style=flat&logo=gmail" alt="Email"/>
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/miguelmartinez-developer/">
-    <img src="https://img.shields.io/badge/LinkedIn-miguelmartinez-developer-blue?style=flat&logo=linkedin" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/miguelmartinez-developer/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
