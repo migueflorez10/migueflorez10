@@ -38,10 +38,7 @@
 ## 📈 GitHub Streak
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=migueflorez10&theme=radical&hide_border=true&mode=weekly"
-    alt="GitHub Streak Stats for migueflorez10"
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=migueflorez10&theme=radical" alt="GitHub streak"/>
 </p>
 ---
 
