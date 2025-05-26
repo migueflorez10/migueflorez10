@@ -38,9 +38,8 @@
 ## 📈 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=migueflorez10&theme=radical" alt="GitHub streak"/>
+  [![GitHub Streak](https://streak-stats.vercel.app/?user=migueflorez10&theme=radical&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 </p>
-
 ---
 
 ## 📫 How to reach me
