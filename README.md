@@ -38,7 +38,10 @@
 ## 📈 GitHub Streak
 
 <p align="center">
-  [![GitHub Streak](https://streak-stats.vercel.app/?user=migueflorez10&theme=radical&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+  <img
+    src="https://streak-stats.demolab.com?user=migueflorez10&theme=radical&hide_border=true&mode=weekly"
+    alt="GitHub Streak Stats for migueflorez10"
+  />
 </p>
 ---
 
