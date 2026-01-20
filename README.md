@@ -5,8 +5,9 @@
 
 <h1 align="center">Hi, I'm Miguel Ángel Martínez Florez 👋</h1>
 <p align="center">
-  Final-year Computer Science student at Universidad EAFIT (Medellín, Colombia) 🎓<br/>
-  Dedicated to clean, maintainable code and open-source collaboration 🤝
+  Systems Engineer from Universidad EAFIT (Medellín, Colombia) 🎓<br/>
+  Final semester student of a Software Development Specialization<br/>
+  Focused on clean, maintainable code and data-driven solutions 🚀
 </p>
 
 <p align="center">
