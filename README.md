@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
-  <a href="mailto:miguel43155957@gmail.com">
+  <a href="mailto:miguelmartinez.codes@gmail.com">
     <img src="https://img.shields.io/badge/Email-miguel43155957@gmail.com-red?style=flat&logo=gmail" alt="Email"/>
   </a>
 </p>
