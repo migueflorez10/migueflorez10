@@ -20,7 +20,7 @@
   </a>
   &nbsp;
   <a href="mailto:miguelmartinez.codes@gmail.com">
-    <img src="https://img.shields.io/badge/Email-miguel43155957@gmail.com-red?style=flat&logo=gmail" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-miguelmartinez.codes@gmail.com-red?style=flat&logo=gmail" alt="Email"/>
   </a>
 </p>
 
